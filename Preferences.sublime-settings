@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Base16 Eighties Dark Color Scheme/base16-eighties-dark.tmTheme",
+	"draw_white_space": "all",
+	"scroll_past_end": false,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"bold_folder_labels": true,
+	"highlight_line": true,
+	"translate_tabs_to_spaces": true,
+	"tab_size": 2,
+  "rulers": [80]
+}
