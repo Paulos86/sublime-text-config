@@ -1,12 +1,15 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Base16 Eighties Dark Color Scheme/base16-eighties-dark.tmTheme",
 	"draw_white_space": "all",
-	"scroll_past_end": false,
-	"trim_trailing_white_space_on_save": true,
 	"ensure_newline_at_eof_on_save": true,
-	"bold_folder_labels": true,
+	"font_size": 10,
 	"highlight_line": true,
-	"translate_tabs_to_spaces": true,
+	"highlight_modified_tabs": true,
+	"rulers": [80],
+	"scroll_past_end": false,
 	"tab_size": 2,
-  "rulers": [80]
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
